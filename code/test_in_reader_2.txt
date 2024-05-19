@@ -1,0 +1,15 @@
+System,1
+beam,0,0,2,2
+force,Fx,0,0,0
+force,Fy,0,0,90
+force,Fy2,0,0,90
+-1
+System,2
+beam,2,2,3,2
+-1
+System,3
+beam,3,2,5,2
+force,F,3,2,230
+force,10,3,3,111
+-1
+end
